@@ -5,4 +5,4 @@
 - 🌱 I am currently taking courses on software engineering practices, Automata theory, computational linear algebra, game development, and programming
      languages principles.
      
-- 📫 How to reach me: By email @ abdelhadia19@students.ecu.edu
+- 📫 How to reach me: By email abdelhadia19@students.ecu.edu
